@@ -93,7 +93,7 @@
         <br>
         <input type="text" name="c2[]" id="c2">
         <br>
-        <input type="text" name="c3[]" id="c3">
+        <input type="text" name="c3" id="c3">
         <br>
     <div id="btn1">
        <input type="button" value="Add another text input" id="show1"> 
